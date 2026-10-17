@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment variables & Keys
+.env
+*.pem
+*.key
+
+# OS junk
+.DS_Store
+Thumbs.db
+__MACOSX/
